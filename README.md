@@ -1,3 +1,3 @@
 # SchoolCollections
-A repository containing my school's implementations of generic collections  
-Made using .NET Core
+Implementation of some generic data structures used during my course  
+Built on .NET Core
